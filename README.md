@@ -39,13 +39,13 @@ In order to run these tools on a set of transcriptions, run the following comman
 <pre>
 
 Analysis: Complete
---Naive-- (All)
+--Naive-- (Only Unique)
 Type:  None
 Simple:  155
 All:  571
 0.271
 
---Non-Naive-- (Only Unique)
+--Non-Naive-- (All)
 Type:  None
 Simple:  2562
 All:  4979
@@ -53,13 +53,13 @@ All:  4979
 
 -----------------
 
---Naive-- (All)
+--Naive--(Only Unique)
 Type:  NOUN
 Simple:  31
 All:  106
 0.292
 
---Non-Naive-- (Only Unique)
+--Non-Naive-- (All)
 Type:  NOUN
 Simple:  211
 All:  575
@@ -67,13 +67,13 @@ All:  575
 
 -----------------
 
---Naive-- (All)
+--Naive--(Only Unique)
 Type:  VERB
 Simple:  36
 All:  211
 0.171
 
---Non-Naive-- (Only Unique)
+--Non-Naive-- (All)
 Type:  VERB
 Simple:  356
 All:  994
@@ -81,13 +81,13 @@ All:  994
 
 -----------------
 
---Naive-- (All)
+--Naive--(Only Unique)
 Type:  ADJ
 Simple:  21
 All:  52
 0.404
 
---Non-Naive-- (Only Unique)
+--Non-Naive-- (All)
 Type:  ADJ
 Simple:  66
 All:  146
