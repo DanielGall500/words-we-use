@@ -43,12 +43,15 @@ if __name__ == "__main__":
 	order_out = "out/complete/complete_data.csv"
 	c5 = "python process/order/order_data.py {} {}".format(plurals_out, order_out)
 
+	#Remove any punctuation & numbers
+	c6 = "python process/extra_clean/extra_clean.py {} {}".format(order_out, order_out)
+
 	#Extract any CS-related terms. Can be based on FOLDOC or CS1. 
 	cs_terms_out = "out/csterms_out.csv"
-	c6 = "python process/csterms/csterms.py {} {}".format(order_out, csterms_out)
+	c7 = "python process/csterms/csterms.py {} {}".format(order_out, csterms_out)
 
 	#Execute the commands
-	commands = [c1, c2, c3, c4, c5, c6]
+	commands = [c1, c2, c3, c4, c5, c6, c7]
 	for c in commands:
 		print("Executing Command: {}".format(c))
 		os.system(c)
