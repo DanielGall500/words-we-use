@@ -1,0 +1,122 @@
+﻿0
+algorithm
+alphabet
+arithmetic
+array
+binary
+blank
+boolean
+bracket
+bug
+byte
+castclient
+column
+comma
+compiler 
+concatenate
+console
+constructor
+counter
+database
+debug
+decimal
+decrement
+default
+delete
+digit
+directory
+disk
+duplicate
+electronic
+embed
+execute
+exit 
+exponent
+factorial
+function
+garbage
+graphic
+hardware
+header
+height
+hexadecimal
+hint
+horizontal
+identifier 
+import
+increment
+indent
+inherit
+initialize
+integer
+interface
+internet
+interpreter
+intersection
+invalid
+inverse
+iterate
+keyboard
+keyword
+linear
+literal
+loop
+lowercase
+mathematics
+matrix
+mergeminus
+module
+negation
+notation
+null
+numeric
+operand
+overview
+parentheses
+prefix
+printer
+processor
+programmer
+prototype
+pseudo
+recursive
+reference
+relational
+reset
+reuse
+runtime
+semantic
+semicolon
+server
+software
+stack
+static
+storage
+subtract
+swap
+switch
+syntax
+tab
+template
+terminology
+token
+unsigned
+update
+uppercase
+usage
+verify 
+vertical
+web
+binary tree
+central processing unit
+control flow
+control structure
+data structure
+data type
+execution time
+global variable
+local variable
+operating system
+software development
+user interface
+virtual machine
